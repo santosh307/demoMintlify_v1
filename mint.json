@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit Testing",
+  "name": "Demo Company",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/impelsys-logo-final-3.png",
+    "light": "/logo/impelsys-logo-final-3.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -14,6 +14,9 @@
       "from": "#0D9373",
       "to": "#07C983"
     }
+  },
+  "modeToggle":{
+    "default": "dark"
   },
   "topbarLinks": [
     {
